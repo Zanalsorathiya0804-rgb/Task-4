@@ -1,4 +1,4 @@
-# 💻 Web Projects – Task 4 Implementation
+#  Web Projects – Task 4 Implementation
 
 This repository contains 3 fully developed web projects showcasing my skills in HTML, CSS, and JavaScript. These projects are part of a 9-day challenge aimed at mastering frontend development with real-world functionalities.
 
