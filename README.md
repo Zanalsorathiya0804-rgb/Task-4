@@ -12,12 +12,7 @@ A professional, multi-page responsive portfolio including:
 - **Projects Page** – Details with images and GitHub links
 - **Contact Page** – Contact form or social links
 
-🔗 Live Demo: [Your GitHub Pages Link]  
-📁 Code Folder: `/Portfolio`
-
----
-
-### 2. 📝 To-Do List with Local Storage
+### 2.  To-Do List with Local Storage
 A simple yet effective to-do list app that:
 - Adds, deletes, and marks tasks as complete
 - Saves tasks in `localStorage` so data persists after reload
