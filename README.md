@@ -4,9 +4,9 @@ This repository contains 3 fully developed web projects showcasing my skills in 
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 1. 🌐 Personal Portfolio Website
+### 1. Personal Portfolio Website
 A professional, multi-page responsive portfolio including:
 - **About Page** – Personal introduction and skills
 - **Projects Page** – Details with images and GitHub links
