@@ -17,11 +17,6 @@ A simple yet effective to-do list app that:
 - Adds, deletes, and marks tasks as complete
 - Saves tasks in `localStorage` so data persists after reload
 
-🔗 Live Demo: [Your GitHub Pages Link]  
-📁 Code Folder: `/ToDoApp`
-
----
-
 ### 3. 🛍️ Product Listing Page
 A product page where users can:
 - Filter by **category** and **price range**
