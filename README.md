@@ -30,7 +30,7 @@ A product page where users can:
 
 ---
 
-## 📅 Timeline
+## Timeline
 **Task Duration:** 9 Days  
 **Goal:** Build 3 real-world projects with increasing interactivity and responsiveness
 
