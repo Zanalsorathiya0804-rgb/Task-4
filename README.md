@@ -28,8 +28,6 @@ A product page where users can:
 - CSS3 (Media Queries for Responsiveness)  
 - JavaScript (DOM Manipulation, localStorage, Filtering/Sorting)
 
----
-
 ## Timeline
 **Task Duration:** 9 Days  
 **Goal:** Build 3 real-world projects with increasing interactivity and responsiveness
